@@ -1,0 +1,5 @@
+/*
+ *
+ * print sin function 
+ *
+ */
